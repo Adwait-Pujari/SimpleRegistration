@@ -1,4 +1,4 @@
-# SimpleRegistration
+# Registration Page
 
 ## Login Module for Event Management System
 
